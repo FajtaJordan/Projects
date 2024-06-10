@@ -1,0 +1,12 @@
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\bin\Debug\adatbazis_feladat.exe.config
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\bin\Debug\adatbazis_feladat.exe
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\bin\Debug\adatbazis_feladat.pdb
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\bin\Debug\MySql.Data.dll
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.csproj.AssemblyReference.cache
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.Form1.resources
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.Properties.Resources.resources
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.csproj.GenerateResource.cache
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.csproj.CoreCompileInputs.cache
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.csproj.CopyComplete
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.exe
+F:\Kemenes\10.05\megoldasok\adatbazis_feladat\obj\Debug\adatbazis_feladat.pdb

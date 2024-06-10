@@ -1,0 +1,10 @@
+F:\Kemenes\bomgeszo\bin\Debug\bomgeszo.exe.config
+F:\Kemenes\bomgeszo\bin\Debug\bomgeszo.exe
+F:\Kemenes\bomgeszo\bin\Debug\bomgeszo.pdb
+F:\Kemenes\bomgeszo\obj\Debug\bomgeszo.csproj.AssemblyReference.cache
+F:\Kemenes\bomgeszo\obj\Debug\bomgeszo.Form1.resources
+F:\Kemenes\bomgeszo\obj\Debug\bomgeszo.Properties.Resources.resources
+F:\Kemenes\bomgeszo\obj\Debug\bomgeszo.csproj.GenerateResource.cache
+F:\Kemenes\bomgeszo\obj\Debug\bomgeszo.csproj.CoreCompileInputs.cache
+F:\Kemenes\bomgeszo\obj\Debug\bomgeszo.exe
+F:\Kemenes\bomgeszo\obj\Debug\bomgeszo.pdb

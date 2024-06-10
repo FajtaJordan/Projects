@@ -1,0 +1,7 @@
+F:\Kemenes\2023.11.20.oop.2\bin\Debug\2023.11.20.oop.2.exe.config
+F:\Kemenes\2023.11.20.oop.2\bin\Debug\2023.11.20.oop.2.exe
+F:\Kemenes\2023.11.20.oop.2\bin\Debug\2023.11.20.oop.2.pdb
+F:\Kemenes\2023.11.20.oop.2\obj\Debug\2023.11.20.oop.2.csproj.AssemblyReference.cache
+F:\Kemenes\2023.11.20.oop.2\obj\Debug\2023.11.20.oop.2.csproj.CoreCompileInputs.cache
+F:\Kemenes\2023.11.20.oop.2\obj\Debug\2023.11.20.oop.2.exe
+F:\Kemenes\2023.11.20.oop.2\obj\Debug\2023.11.20.oop.2.pdb
