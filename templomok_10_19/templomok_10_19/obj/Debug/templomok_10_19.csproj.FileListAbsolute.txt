@@ -1,0 +1,15 @@
+F:\Kemenes\templomok_10_19\templomok_10_19\bin\Debug\templomok_10_19.exe.config
+F:\Kemenes\templomok_10_19\templomok_10_19\bin\Debug\templomok_10_19.exe
+F:\Kemenes\templomok_10_19\templomok_10_19\bin\Debug\templomok_10_19.pdb
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19.csproj.AssemblyReference.cache
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\MainWindow.g.cs
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\App.g.cs
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19_MarkupCompile.cache
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19_MarkupCompile.lref
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\MainWindow.baml
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19.g.resources
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19.Properties.Resources.resources
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19.csproj.GenerateResource.cache
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19.csproj.CoreCompileInputs.cache
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19.exe
+F:\Kemenes\templomok_10_19\templomok_10_19\obj\Debug\templomok_10_19.pdb

@@ -1,0 +1,10 @@
+F:\Kemenes\rekurzio_gui\bin\Debug\rekurzio_gui.exe.config
+F:\Kemenes\rekurzio_gui\bin\Debug\rekurzio_gui.exe
+F:\Kemenes\rekurzio_gui\bin\Debug\rekurzio_gui.pdb
+F:\Kemenes\rekurzio_gui\obj\Debug\rekurzio_gui.csproj.AssemblyReference.cache
+F:\Kemenes\rekurzio_gui\obj\Debug\rekurzio_gui.Form1.resources
+F:\Kemenes\rekurzio_gui\obj\Debug\rekurzio_gui.Properties.Resources.resources
+F:\Kemenes\rekurzio_gui\obj\Debug\rekurzio_gui.csproj.GenerateResource.cache
+F:\Kemenes\rekurzio_gui\obj\Debug\rekurzio_gui.csproj.CoreCompileInputs.cache
+F:\Kemenes\rekurzio_gui\obj\Debug\rekurzio_gui.exe
+F:\Kemenes\rekurzio_gui\obj\Debug\rekurzio_gui.pdb

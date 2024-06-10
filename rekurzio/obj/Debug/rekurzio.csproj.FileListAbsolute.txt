@@ -1,0 +1,7 @@
+F:\Kemenes\rekurzio\bin\Debug\rekurzio.exe.config
+F:\Kemenes\rekurzio\bin\Debug\rekurzio.exe
+F:\Kemenes\rekurzio\bin\Debug\rekurzio.pdb
+F:\Kemenes\rekurzio\obj\Debug\rekurzio.csproj.AssemblyReference.cache
+F:\Kemenes\rekurzio\obj\Debug\rekurzio.csproj.CoreCompileInputs.cache
+F:\Kemenes\rekurzio\obj\Debug\rekurzio.exe
+F:\Kemenes\rekurzio\obj\Debug\rekurzio.pdb
